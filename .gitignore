@@ -1,6 +1,6 @@
-
+*.tga
 *.blend1
 *.avi
 *.blen_tc
 *.mp4
-[Workfolder]/awm/refs/*
+[Workfolder]/*
